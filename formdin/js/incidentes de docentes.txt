@@ -1,0 +1,6 @@
+incidentes de docentes
+registro de la incidencia con un alumno
+registro de los alumnos
+ 
+
+otro  y que se abra un cuadro de texto o ingrese desde el pricipio la incidencia.

@@ -1,0 +1,13 @@
+/* Define un selector para la clase bg */
+.bg {
+    /* Establece la imagen de fondo */
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1; /* Coloca la imagen detrás de todo el contenido */
+    width: 100%; /* Opcional: Establece la anchura de la imagen al 100% del viewport */
+    height: 100%; /* Opcional: Establece la altura de la imagen al 100% del viewport */
+    object-fit: cover; /* Opcional: Ajusta el tamaño de la imagen de fondo para que cubra el área */
+    opacity: 0.5; /* Opcional: Establece la opacidad de la imagen de fondo */
+    /* Otras propiedades de estilo como la posición, el tamaño, etc., según sea necesario */
+}

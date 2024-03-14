@@ -1,0 +1,22 @@
+body {
+    /* Establece la imagen de fondo */
+    background-image: url('../../images/hero-bg.jpg');
+    /* Fija la imagen de fondo para que no se mueva con el desplazamiento */
+    background-attachment: fixed;
+    /* Ajusta el tamaño de la imagen de fondo */
+    background-size: cover;
+    /* Centra la imagen de fondo vertical y horizontalmente */
+    background-position: center;
+    /* Define un color de fondo de respaldo en caso de que la imagen no se cargue o no se muestre */
+    background-color: #f2f2f2; /* Cambia esto según tus preferencias */
+
+
+}
+
+/* Opcional: Estilos adicionales para el contenido */
+.content {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Un fondo semitransparente para resaltar el contenido */
+
+}
